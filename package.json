@@ -1,0 +1,26 @@
+{
+  "name": "heroku_test",
+  "version": "0.0.1",
+  "description": "Testing out the getting started tutorial by Heroku.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoyws/heroku_test.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "geoyws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoyws/heroku_test/issues"
+  },
+  "homepage": "https://github.com/geoyws/heroku_test",
+  "dependencies": {
+    "express": "^4.4.3",
+    "logfmt": "^1.1.2"
+  }
+}
